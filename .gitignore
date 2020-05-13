@@ -1,0 +1,6 @@
+node_modules/
+build/
+.env
+dotenv_unix
+dotenv_win
+
